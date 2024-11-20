@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1732131096606,"sparkVersion":"3.5.3","uid":"StringIndexer_d5370f7d6c5b","paramMap":{"outputCol":"Sender_bank_location_index","inputCol":"Sender_bank_location"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_d5370f7d6c5b__output","handleInvalid":"error"}}
